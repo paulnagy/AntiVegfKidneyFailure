@@ -20,6 +20,7 @@ Risk of kidney failure associated with intravitreal anti-vascular endothelial gr
 - Study start date: **28-03-2023**
 - Study end date: **-**
 - Protocol: **-**
+- Phenotypes: **-**
 - Publications: **-**
 - Results explorer: **-**
 
