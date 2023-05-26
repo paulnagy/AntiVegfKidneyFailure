@@ -23,7 +23,7 @@ Risk of kidney failure associated with intravitreal anti-vascular endothelial gr
 - Phenotypes: **-**
 - Publications: **-**
 - Presentations: 
-- -  https://www.youtube.com/watch?v=uu54ki69vxw&ab_channel=OHDSI
+- -  <a href="https://www.youtube.com/watch?v=uu54ki69vxw&ab_channel=OHDSI">SOS Challenge Tutorial: Interpreting the Results (Cindy Cai, May 23)</a>
 - Results explorer: **-**
 
 [Description (single paragraph)]
