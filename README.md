@@ -7,6 +7,7 @@ Risk of kidney failure associated with intravitreal anti-vascular endothelial gr
 - Study type: **Population-level estimation**
 - Tags: **-**
 - Study lead: **Cindy X. Cai**
+- Data partner recruitment status: Open
 - Network Study Navigator:
 - 1. Protocol Development:
 - 2. Data Diagnostics: **Clair Blacketer**
