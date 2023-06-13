@@ -8,8 +8,15 @@ Risk of kidney failure associated with intravitreal anti-vascular endothelial gr
 - Tags: **-**
 - Study lead: **Cindy X. Cai**
 - Data partner recruitment status: Open
+- Deadline for adding new data partners: 2023/07/14
 - Network Study Navigator:
 - 1. Protocol Development:
+- Study Design
+- IRB approval
+- Analytic Use case
+- Cohort Definitions
+- Concept sets
+- Criteria needed for data partners
 - 2. Data Diagnostics: **Clair Blacketer**
 - 3. Phenotype Development: **Asieh Golozar**
 - 4. Phenotype Evaluation: **Evan Minty**
