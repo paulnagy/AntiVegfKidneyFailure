@@ -13,7 +13,7 @@ Risk of kidney failure associated with intravitreal anti-vascular endothelial gr
 - 2. Data Diagnostics: **Clair Blacketer**
 - 3. Phenotype Development: **Asieh Golozar**
 - 4. Phenotype Evaluation: **Evan Minty**
-- 5. Analysis Specification:
+- 5. Analysis Specification: 
 - 6. Network Execution:
 - 7. Study Diagnostics:
 - 8. Evidence Synthesis:
